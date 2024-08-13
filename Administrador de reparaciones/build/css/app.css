@@ -1,0 +1,19 @@
+body {
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-image: url("../../img/fondo1.jpg");
+  padding-top: 100px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.login {
+  background-color: rgba(210, 210, 210, 0.7);
+}
+
+#user #pass {
+  padding: 10px;
+}
